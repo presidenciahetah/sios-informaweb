@@ -15,7 +15,7 @@
     <name>msvc-services</name>
     <description>Spring boot servicios</description>
     <properties>
-        <java.version>21</java.version>
+        <java.version>17</java.version>
         <spring-cloud.version>2023.0.2</spring-cloud.version>
     </properties>
     <dependencies>
